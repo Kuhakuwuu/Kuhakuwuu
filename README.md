@@ -24,20 +24,6 @@ Computer Science student, Arch enjoyer, and hoarder of retro tech, anime, and an
 
 ---
 
-<div align="center">
-
-### 🌌 Aero System Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kuhakuwuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuhakuwuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
-
-</div>
-
----
-
----
-
 ### Interests
 
 - Gaming (backlog is a lifestyle)
