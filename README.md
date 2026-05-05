@@ -4,12 +4,11 @@
 
 Computer Science student, Arch enjoyer, and hoarder of retro tech, anime, and an absurd number of unfinished games.
 
-> Currently juggling code, anime, and a game backlog that will outlive me.
+> Currently juggling code, anime, endless amount of terraria and minecraft, and a game backlog that will most likely outlive me.
 
 ---
 
-
-### 💻 Languages I Know (kinda)
+### Languages I Know (kinda)
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -25,21 +24,35 @@ Computer Science student, Arch enjoyer, and hoarder of retro tech, anime, and an
 
 ---
 
+<div align="center">
+
+### 🌌 Aero System Status
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kuhakuwuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuhakuwuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+
+</div>
+
+---
+
+---
+
 ### Interests
 
 - Gaming (backlog is a lifestyle)
-- Retro tech & old systems (Windows 7, Aero era)
-- Unhealthy dose of Pokémon & anime
+- Retro tech and old systems (Windows 7, Aero era)
+- Unhealthy dose of Pokémon and anime
 - Random niche rabbit holes
 
 ---
 
-### Stats (proof I touch code sometimes maybe...)
+### Stats (proof I touch code sometimes)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuhakuwuu&show_icons=true&theme=tokyonight)
 
 ---
 
 ### Final Form
 
-> Not cracked, not clueless—just in progress.
+> Not cracked, not clueless — just in progress.
